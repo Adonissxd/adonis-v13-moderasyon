@@ -1,1 +1,5 @@
 # adonis-v13-moderasyon
+
+v13 olarak kullandığım moderasyon botumu yakında sizinle paylaşıcam. 
+
+https://tenor.com/view/project-app-blue-guys-human-gif-14118674
